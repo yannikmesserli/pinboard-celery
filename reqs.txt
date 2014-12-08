@@ -1,0 +1,3 @@
+celery
+-e git://github.com/mgan59/python-pinboard.git@v1.1#egg=python-pinboard
+git+http://github.com/paulchakravarti/gmail-sender
